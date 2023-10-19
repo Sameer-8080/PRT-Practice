@@ -16,3 +16,7 @@ int Feature2() {
 int Feature1() {
 	//sample code for feature1 branch
 }
+
+int Pravin2() {
+        //sample code for Pravin2 for feature2 branch
+}
